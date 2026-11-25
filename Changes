@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.0.20    2026-11-25 14:23:50+00:00 Europe/London
  - cleanup: removed the dependency on FindBin::libs
 
 0.0.19    2023-07-14 10:17:10+01:00 Europe/London
